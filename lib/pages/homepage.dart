@@ -6,6 +6,8 @@ import 'package:flutter_learning2/pages/searchpage.dart';
 import 'package:flutter_learning2/pages/cartpage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+//menambahkan notes untuk iseng masuk ke branch
+
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
