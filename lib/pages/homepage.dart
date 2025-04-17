@@ -304,13 +304,13 @@ class _HomePageContentState extends State<HomePageContent> {
 List<Map<String, dynamic>> products = [
   {
     "name": "Rays CE28N",
-    "price": 256.00,
+    "price": 260.00,
     "image": "assets/images/CE28N.png",
     "category": "RAYS",
   },
   {
     "name": "Rays G025",
-    "price": 284.00,
+    "price": 274.00,
     "image": "assets/images/G025.png",
     "category": "RAYS",
   },
