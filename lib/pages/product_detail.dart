@@ -154,6 +154,8 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
 
           const SizedBox(height: 20),
 
+          //product detail belum tersedia tolong di isi deskripsi product nya
+
           // Deskripsi produk
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20),
